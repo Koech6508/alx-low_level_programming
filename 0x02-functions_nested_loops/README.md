@@ -1,1 +1,1 @@
-this is me creating ala function  wahala and doing some nested loops
+My taskes for 0x02-functions_nested_loops
