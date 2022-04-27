@@ -1,2 +1,1 @@
-ALX 
-more_singly_linked_lists
+singly linked
